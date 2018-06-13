@@ -20,10 +20,7 @@ import org.apache.commons.csv.CSVPrinter;
 import org.apache.commons.csv.CSVRecord;
 import com.mysql.cj.util.StringUtils;
 
-/**
- * Hello world!
- *
- */
+
 public class CodingChallengeTest {
 	private static final String NEW_LINE_SEPARATOR = "\n";
 
