@@ -124,7 +124,7 @@ public class CodingChallengeTest {
 			// logging the records in log file
 			logger.info("Total number of records received : " + totalRecords);
 			logger.info("Total number of good records received : " + goodRecords);
-			logger.info("Total number of good records received : " + badRecords);
+			logger.info("Total number of bad records received : " + badRecords);
 			System.out.println(goodRecords);
 			System.out.println(badRecords);
 			System.out.println(totalRecords);
